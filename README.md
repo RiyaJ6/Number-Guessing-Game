@@ -65,7 +65,7 @@ You don't need fancy package managers. This game runs on pure Python standard li
 
 2.  **Run the Game**
     ```bash
-    python main.py
+    python game.py
     ```
 
 ## 🤝 Contributing
